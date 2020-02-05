@@ -9,7 +9,7 @@ PARAMS = {'decay_factor': 0.5,
           'n_iterations': 117}
 
 # Create experiment
-neptune.create_experiment(name='quick_start_example',
+neptune.create_experiment(name='minimal-extended',
                           params=PARAMS)
 
 # Log some metrics
