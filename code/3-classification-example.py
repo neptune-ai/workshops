@@ -32,10 +32,10 @@ PARAMS = {'batch_size': 16,  # 16, 32, 64
           'shuffle': True,
           'activation': 'elu',  # 'elu', 'relu'
           'dense_units': 128,  # 16, 32, 64, 128
-          'dropout': 0.0,  # float between 0.0 and 1.0
+          'dropout': 0.3,  # float between 0.0 and 1.0
           'learning_rate': 0.008,  # float between, say, 0.00001 and 0.01
           'early_stopping': 10,
-          'optimizer': 'Adam',  # 'Adam', 'Nadam', SGD'
+          'optimizer': 'Nadam',  # 'Adam', 'Nadam', SGD'
           }
 
 # Create experiment
