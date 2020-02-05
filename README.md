@@ -1,6 +1,5 @@
 ![neptune-logo](_static/neptune-ai-blue-horizontal.png "neptune.ai")
 
-# Workshops
 Workshop for AII and Optimali, Feb 7, 2020.
 
 # Get started on Linux machines
