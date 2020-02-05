@@ -16,14 +16,22 @@ API token is accessible via Web UI, here (top-right corner):
 
 More info in the [documentation](https://docs.neptune.ai/python-api/tutorials/get-started.html#copy-api-token).
 
-## Installation
-1. Create new environment with Python 3.6.
+## Setup
+### Repository
+Clone this repo: ```git clone https://github.com/neptune-ai/workshops.git```
+
+### Environment
+1. Create new environment with Python 3.6. (recommended)
 1. Activate this environment
 1. Install dependencies
 
 ```pip install -r requirements.txt```
 
-You may choose to work with **Jupyter** or **JupyterLab**. In the dependencies file there are both.
+You may choose to work with **Jupyter** or **JupyterLab**: both are installed.
+
+### Install neptune-notebooks
+1. Jupyter -> [documentation](https://docs.neptune.ai/notebooks/installation.html#jupyter)
+1. JupyterLab -> [documentation](https://docs.neptune.ai/notebooks/installation.html#jupyterlab)
 
 # Agenda
 1. Intro - experiment management and collaboration
