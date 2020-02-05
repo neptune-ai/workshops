@@ -42,7 +42,7 @@ PARAMS = {'batch_size': 64,
 # Create experiment
 with neptune.create_experiment(name='classification_example',
                                tags=['classification', 'tf_2'],
-                               upload_source_files=['classification-example.py'],
+                               upload_source_files=['3-classification-example.py'],
                                params=PARAMS):
     # Dataset
     fashion_mnist = keras.datasets.fashion_mnist
