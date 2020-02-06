@@ -7,7 +7,7 @@ Workshop for AII and Optimali, Feb 7, 2020.
 1. Register here: https://neptune.ai/register
 1. export API token like this: ```export NEPTUNE_API_TOKEN='YOUR_LONG_API_TOKEN'```
 
-   or append this line to your ~/.bashrc or ~/.bash_profile files (recommended).
+   or append this line to your `~/.bashrc` or `~/.bash_profile` files (recommended).
 
 API token is accessible via Web UI, here (top-right corner):
 
